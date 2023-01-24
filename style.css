@@ -15,6 +15,7 @@ body {
   
   .container {
     width: 800px;
+
   }
   
   .banner {
@@ -26,13 +27,13 @@ body {
   }
   
   .banner h1 {
-    color: #B05A7A;
+    color: white;
     font-size: 45px;
-    margin: 0;
+    margin: 20px 0;
   }
   
   .container h2 {
-    color: #84D2C5;
+    color: black;
   }
   .banner p {
     color: white;
